@@ -75,6 +75,7 @@ The client/owner is also a target audience in a sense. She would like to be able
 
 
 #### Sitemap
+
 !["Beachfit Sitemap"](/img/sitemap.png)
 
 
@@ -137,6 +138,7 @@ Initial round of wireframes done (version one) completed, then reviewed by team 
 
 <details>
 <summary> R6. Trello Screenshots </summary>
+
 Trello was used as a management tool for the project. Different cards were created for each rubric to ensure requirements were met, and assigned to each team member (or both). Comments used to add to each card to ensure all team members were across what had been done and what still needed to be done.
 Some coding components for Part B entered to start planning and researching for next part of the website development, including stretch components.
 
