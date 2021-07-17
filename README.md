@@ -47,31 +47,31 @@ The below features are stretch goals, and will be included if time permits.
 #### Target audience
 The target audience for this website is very much new customers, rather than existing members. Once they become regular members and attendees, the main method of communication is a whatsapp group and bookings are also conducted through the Mindbody app. This website is for the acquisition of customers, rather than retention. 
 
-New customers to a bootcamp are often apprehensive about what will be involved, and would like as much information as possible. The purpose of this site is to provide them with this information, show them what a great experience the bootcamps are, and encourage them to start a free trial. The way to get in contact with the owner should also be very clear, and provide as little barrier to purchase/trial as possible. 
+New customers to a bootcamp are often apprehensive about what will be involved, and would like as much information as possible. The purpose of this site is to provide them with this information, show them what a great experience the bootcamps are, and encourage them to start a free trial. The way to get in contact with the owner should also be very clear, and provide as little barrier to purchase/trial as possible.  
 
 The client/owner is also a target audience in a sense. She would like to be able to update her own website without asking a developer. To meet this requirement, an administrator log in will be added, which leads to an easy to use dashboard, allowing the administrator to update FAQs and pricing, without touching the code. 
 
 
 #### Tech Stack
 
-Ruby on Rails – backend framework
-React – frontend framework
-HTML, CSS and JS - frontend
-PostgreSQL – database
-Devise gem – for user authentication and authorisation
-Devise-jwt gem – to ensure that cookies are ‘blacklisted’ and can never be used again once destroyed
-Figaro gem – to store environment variables in backend (Rails)
-DotEnv – to store environment variables in frontend (React)
-Craco – a script manager for running Tailwind applications
-Material-UI – a CSS framework built by Google that contains pre-render components – very handy for quick user interface
-Tailwind CSS – another CSS framework for quick adding styling and easy-to-install templates
-Axios – to send HTTP requests (GET, POST, PUT, DELETE) from React frontend to the Rails backend – makes it easier than using fetch requests
+- Ruby on Rails – backend framework
+- React – frontend framework
+- HTML, CSS and JS - frontend
+- PostgreSQL – database
+- Devise gem – for user authentication and authorisation
+- Devise-jwt gem – to ensure that cookies are ‘blacklisted’ and can never be used again once destroyed
+- Figaro gem – to store environment variables in backend (Rails)
+- DotEnv – to store environment variables in frontend (React)
+- Craco – a script manager for running Tailwind applications
+- Material-UI – a CSS framework built by Google that contains pre-render components – very handy for quick user interface
+- Tailwind CSS – another CSS framework for quick adding styling and easy-to-install templates
+- Axios – to send HTTP requests (GET, POST, PUT, DELETE) from React frontend to the Rails backend – makes it easier than using fetch requests
 
 **Tools**
-Git and Github – source control
-Heroku/Netifly - deployment
-Trello – project management 
-Balsamiq - wireframes
+- Git and Github – source control
+- Heroku/Netifly - deployment
+- Trello – project management 
+- Balsamiq - wireframes
 
 
 #### Sitemap
@@ -140,6 +140,8 @@ Initial round of wireframes done (version one) completed, then reviewed by team 
 Trello was used as a management tool for the project. Different cards were created for each rubric to ensure requirements were met, and assigned to each team member (or both). Comments used to add to each card to ensure all team members were across what had been done and what still needed to be done.
 Some coding components for Part B entered to start planning and researching for next part of the website development, including stretch components.
 
+https://trello.com/b/QOcKR4Y2/rails-react-app 
+
 Day 1:
 !["Trello 10 July"](/img/Trello_Screenshots/Trello_100721.png)
 
@@ -161,3 +163,4 @@ Day 6:
 Day 7:
 !["Trello 16 July"](/img/Trello_Screenshots/Trello_160721.png)
 </details>
+
